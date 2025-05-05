@@ -33,7 +33,7 @@
                 title="The A.V. Club"
                 type="rss" xmlUrl="https://www.avclub.com/rss.xml" />
             <outline description="" text="Variety" title="Variety"
-                type="rss" xmlUrl="https://variety.com/feed/" />
+                type="rss" xmlUrl="https://variety.com/feed/" /> #nice
         </outline>
     </body>
 </opml>
